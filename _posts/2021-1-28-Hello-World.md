@@ -3,7 +3,7 @@ layout: post
 title: Getting Started
 ---
 
-Elebird [^1] : A large flying elephant.
+Elebird <sup>1</sup> : A large flying elephant.
 - What is an elephant?
 - Is elebird a subset of elephants or is it a state that all elephants can enter?
 
@@ -12,7 +12,7 @@ Elephant: A large terrestial mammal.
 
 After an extensive literature review, do I understand that an elebird is a hope to find a large flying animal with thick grey skin and an unusually long nose that it can use to pick up objects among other uses.
 
-This blog [^2] is my effort to document the elebirds that I encounter in my research as well as the journey undertaken to really understand them.
+This blog <sup>2</sup> is my effort to document the elebirds that I encounter in my research as well as the journey undertaken to really understand them.
 
 
 1. Elebird is a concept invented by my mathematics professor, Prof. Prakash Mulbagal to emphasize why axioms are necessary in mathematics.
