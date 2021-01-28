@@ -18,6 +18,6 @@ This blog<span id="a2">[[2]](#f2)</span> is my effort to document the elebirds t
 Footnotes
 =========
 
-1. <span id="f1"></span> Elebird is a concept invented by my mathematics professor, Prof. Prakash Mulbagal to emphasize why axioms are necessary in mathematics.<<(#a1)
+1. <span id="f1"></span> Elebird is a concept invented by my mathematics professor, Prof. Prakash Mulbagal to emphasize why axioms are necessary in mathematics.[<<](#a1)
 
-2. <span id="f2"></span>This blog setup, Jekyll-Now, is made by Barry Clarke and can be found for easy use here: [https://github.com/barryclark/jekyll-now](https://github.com/barryclark/jekyll-now)<<(#a2)
+2. <span id="f2"></span>This blog setup, Jekyll-Now, is made by Barry Clarke and can be found for easy use here: [https://github.com/barryclark/jekyll-now](https://github.com/barryclark/jekyll-now).[<<](#a2)
