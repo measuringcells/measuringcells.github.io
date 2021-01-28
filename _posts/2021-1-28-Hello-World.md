@@ -3,7 +3,7 @@ layout: post
 title: Getting Started
 ---
 
-Let us assume that in the study of living things, we know only two points, every living thing that looks like us is a human but every living thing is an animal. Particularly, do not know what an elephant is. If now, we come across the word, elebird<span id="a1">[[1]](#f1)</span>, formally defined as a large flying elephant (say), we have a myriad of questions!
+Let us assume that in the study of living things, we know only two points, every living thing that looks like us is a human but every living thing is an animal. Particularly, we do not know what an elephant is. If now, we come across the word, elebird<span id="a1">[[1]](#f1)</span>, formally defined as a large flying elephant (say), we have a myriad of questions!
 - What is an elephant?
 - Is elebird a subset of elephants or is it a state that all elephants can enter?
 - How can an elebird be identfied?
